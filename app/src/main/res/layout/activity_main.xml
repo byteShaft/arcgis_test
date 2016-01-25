@@ -14,6 +14,6 @@
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         mapoptions.MapType="Topo"
-        mapoptions.ZoomLevel="20"
+        mapoptions.ZoomLevel="15"
         mapoptions.center="48.859101, 2.292229" />
 </RelativeLayout>
